@@ -1,0 +1,68 @@
+body {
+    margin-left: 240px;
+    margin-right: 240px;
+    color:rgb(1, 77, 1)   
+}
+h1  {
+    padding: 10px;
+    text-align: center;
+}
+h2  {
+    padding: 10px;
+    text-align: center;
+}
+p  {
+    text-align: left;   
+    font-size: large;
+}
+.tulajdonságok {
+    font-size: larger;
+}
+.képekCenter {
+    text-align: center;
+}
+.képek {
+    width:150px;
+    height:120px;
+}
+button {
+    border: none;
+}
+.leírás {
+    text-align: justify;
+    margin-left: 40px;
+}
+table {
+    border-collapse: separate;
+    box-sizing: border-box;
+    font-size: larger;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
+th, td, tr {
+    border: 1px solid black;
+    width: 170px;
+    padding: 8px
+}
+.időTartam {
+    text-align: center; 
+}
+.egyedi {
+    margin-top: 20px;
+    text-align: center;
+}
+.linkek {
+    color:green
+}
+.kirándulás {
+    float: right;
+    vertical-align: top;
+    width:160px;
+}    
+hr {
+    border-color:green;
+    background-color: green;
+    height: 2px;
+}
